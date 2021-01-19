@@ -7,4 +7,8 @@ class Dog
   def name
     @doggy
   end
+
+  def bark
+    puts "woof!"
+  end
 end
